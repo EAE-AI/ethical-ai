@@ -1,4 +1,4 @@
-# Facial recognition
+# Facial Recognition (FR)
 
 Facial recognition technology has become increasingly prevalent in recent years, with various applications across different sectors, from law enforcement to marketing. However, its use has raised serious ethical concerns, particularly with regard to emotional algorithmic exploitation (EAE).
 
